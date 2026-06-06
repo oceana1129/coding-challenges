@@ -1,5 +1,5 @@
 # Coding Challenges
-A repository filled with codewars challenges (kata). Currently Ranked #41,146 on the global leaderboard, Completed over 100+ challenges and Push solutions every week.
+A repository filled with codewars challenges (kata). Currently Ranked #39,210 on the global leaderboard, Completed over 100+ challenges and Push solutions every week.
 
 ## How It's Made:
 
